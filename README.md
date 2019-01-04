@@ -1,5 +1,5 @@
 # eduLink
-# For start 
+#For start 
 #source activate environment
-# cd src/education_project
-# python manage.py runserver
+#cd src/education_project
+#python manage.py runserver
